@@ -1,0 +1,24 @@
+
+
+
+/*Imagen de Portada*/
+.imgportada{
+	margin-top: 10px;
+	margin-bottom: 5px;
+	width: 500px;
+	height: 45px;
+}
+
+/* Pie de Página */
+#pie{
+	background-color: #696969;
+	margin-top: 80px;
+}
+.xtitle{
+	color:#F0FFFF;
+	text-align: center;
+}
+.txtpie{
+	color:#F0FFFF;
+	text-align: justify;
+}
